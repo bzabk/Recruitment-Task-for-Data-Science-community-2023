@@ -1,0 +1,2 @@
+# Spaceship Titanic dataset EDA + ML model
+The notebook includes exploratory data analysis and a tree-based machine learning model that predicts whether a person was transported. This task was part of the recruitment process for the 2023 Data Science Club at MINI PW. 
